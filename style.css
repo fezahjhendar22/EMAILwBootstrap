@@ -1,0 +1,85 @@
+container{
+    position: relative;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.img{
+    position: relative;
+    right: 70%;
+}
+.btn-info{
+    
+background-color: rgb(149, 170, 245);
+padding: 80;
+position: relative;
+border: #dd6c0f;
+border-style: double;
+}
+
+.col-1{
+    background-color: rgb(197, 141, 198);
+    
+     
+}
+.list-group-item{
+    padding: auto;
+    background-color: rgb(37, 145, 234);
+    margin-top: 2%;
+    margin-left: auto;
+    margin-bottom: 2%;
+    margin-right: auto;
+    
+}
+.list-group-item-action{
+    border-color:#e87c10;
+    border-style: double;
+    
+    
+}
+.col-2{
+    background-color: rgb(232, 140, 213);
+    overflow: hidden;
+
+}
+.d-flex{
+    border: 2px solid rgb(109, 159, 133);
+    border-style: double;
+}
+.btn-outline-success{
+    background-color: rgb(18, 169, 202);
+    border: #0fdd16;
+    border-style: double;
+
+}
+.card{
+    background-color: rgb(179, 108, 133);
+    
+}
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 70%;
+    font-size: 50px;
+    color: #e2750e;
+    text-align: center;
+    background: #f3f3ef;
+    border: #49c773;
+    border-style:outset
+}
+
+
+.col-3{
+    background-color:rgb(225, 181, 223) ;
+}
+.form-control{
+    background-color: #eb8e8e;
+    overflow: hidden;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border: #ddd30f;
+    border-style: double;
+    
+
+}
